@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FreeSpaceManagerExample:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FreeSpaceManagerExample_jar</output-path>
+    <root id="archive" name="Testing.jar">
+      <element id="module-output" name="Testing" />
+      <element id="extracted-dir" path="F:/DiskSpaceDetails/out/artifacts/FreeSpaceManager/FreeSpaceManager.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

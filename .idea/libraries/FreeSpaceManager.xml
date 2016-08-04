@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="FreeSpaceManager">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../DiskSpaceDetails/out/artifacts/FreeSpaceManager/FreeSpaceManager.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../DiskSpaceDetails/out/artifacts/FreeSpaceManager/FreeSpaceManager.jar!/" />
+      <root url="file://$PROJECT_DIR$/../DiskSpaceDetails/src" />
+    </SOURCES>
+  </library>
+</component>
